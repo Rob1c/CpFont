@@ -34,7 +34,7 @@ Example with the 1.0-beta version:
 You're ready to go!
 ## Screenshots
 
-![App Screenshot]()
+![Demonstrative screenshot of the first box you'll meet](https://github.com/Rob1c/CpFont/blob/main/cpfont-sshot1.png)
 
 
 ## 🚀 About Me
